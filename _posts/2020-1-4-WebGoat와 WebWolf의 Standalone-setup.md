@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WebGoat와 WebWolf의 Standalone-setup
+comments: true
 ---
 
 
