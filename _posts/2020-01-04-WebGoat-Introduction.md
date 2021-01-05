@@ -1,7 +1,6 @@
 ---
 layout: post
 title: WebGoat-Introduction
-comments: true
 ---
 
 
