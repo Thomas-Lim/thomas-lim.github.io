@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SQL Injection 설명과 풀이 ①
+title: WebGoat SQL Injection 설명과 풀이 ①
 comments: true
 ---
 
