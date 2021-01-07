@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Image processing] OpenCV + Python 조합으로 아이돌영상 Object tracking !
+title: [Image processing]-OpenCV + Python 조합으로 아이돌영상 Object tracking !
 comments: true
 ---
 
@@ -43,15 +43,15 @@ comments: true
 
 # 3. 진행 순서
 
-- [ ] **필요 라이브러리 로드 **
+- [ ] **필요 라이브러리 로드**
 
-- [ ] **영상을 띄울 Window 세팅 **
+- [ ] **영상을 띄울 Window 세팅**
 
-- [ ] **ROI 설정 **
+- [ ] **ROI 설정**
 
-- [ ] **Object Tracking **
+- [ ] **Object Tracking**
 
-- [ ] **Tracking Window 재설정 **
+- [ ] **Tracking Window 재설정**
 
 - [ ] **영상 저장 범위 설정**
 
