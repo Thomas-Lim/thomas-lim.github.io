@@ -14,9 +14,11 @@ comments: true
 
 
 
-[OpenCV](https://opencv.org/)는 영상처리를 대중화시킨 1등 공신이다. 영상처리 입문은 즉 OpenCV 입문일 정도이다. 최근에는 오류감지 Detection 영역에서 Machine/Deep Learning과 결합해 좋은 성과를 거두고 있고, 현재까지도 꾸준히 발전하고 있는 라이브러리이다.
-
-더욱이, [BSD 라이선스](https://namu.wiki/w/BSD 라이선스)를 사용하므로 상업적으로도 이용 가능하다.
+[OpenCV](https://opencv.org/)는 영상처리를 대중화시킨 1등 공신이다. 
+영상처리 입문은 즉 OpenCV 입문일 정도이다. 
+최근에는 오류감지 Detection 영역에서 Machine/Deep Learning과 결합해 좋은 성과를 거두고 있다. 
+뿐만 아니라, 현재까지도 꾸준히 발전하고 있는 라이브러리이다.
+[BSD 라이선스](https://namu.wiki/w/BSD 라이선스)를 사용하므로 상업적으로도 이용 가능하다.
 
 이를 활용해 좋아하는 아이들 영상에서 특정 Member를 대상으로 추척해, 해당 인물만 보여주는 간단한 프로그램을 만들 것이다.
 
