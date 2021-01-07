@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Image processing]-OpenCV + Python 조합으로 아이돌영상 Object tracking !
+title: Image processing_OpenCV + Python 조합으로 아이돌영상 Object tracking !
 comments: true
 ---
 
