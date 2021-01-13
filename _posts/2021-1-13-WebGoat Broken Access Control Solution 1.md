@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WebGoat XML (A5) Broken Access Control Solution 1
+title: WebGoat (A5) Broken Access Control Solution 1
 comments: true
 ---
 
