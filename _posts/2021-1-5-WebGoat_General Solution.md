@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WebGoat-General Solustion
+title: WebGoat-General Solution
 comments: true
 ---
 
