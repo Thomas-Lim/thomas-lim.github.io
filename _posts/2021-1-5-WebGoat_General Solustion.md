@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WebGoat-General 설명과 풀이
+title: WebGoat-General Solustion
 comments: true
 ---
 
