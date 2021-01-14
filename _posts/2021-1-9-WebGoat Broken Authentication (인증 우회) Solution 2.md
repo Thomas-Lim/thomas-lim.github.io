@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WebGoat Broken Authentication (인증 우회) 설명과 풀이 2
+title: WebGoat Broken Authentication (인증 우회) Solution 2
 comments: true
 ---
 
