@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS 침투테스트 - Kali와 원격환경구축
+title: AWS 침투테스트 - Kali Linux와 VNC 원격통신
 comments: true
 ---
 
