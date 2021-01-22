@@ -198,7 +198,7 @@ New 'X' desktop is sessionnumber:2 이 2로 끝나면 5902 이다.
 아래 화면이 뜬다 !!!
 
 
-![image 044.png](C:\Users\isp\Pictures\image 044.png)![image 044](https://user-images.githubusercontent.com/52769104/105463524-868a5680-5cd3-11eb-88c7-3949d4b0a905.png)
+![image 044](https://user-images.githubusercontent.com/52769104/105463524-868a5680-5cd3-11eb-88c7-3949d4b0a905.png)
 
 
 
