@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021-2-14-AWS 침투테스트 - Python Script로 취약한 S3 Bucket 탐색과 응용
+title: AWS 침투테스트 - Python Script로 취약한 S3 Bucket 탐색과 응용
 comments: true
 ---
 
