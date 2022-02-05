@@ -4,6 +4,9 @@ title: WebGoat Broken Authentication (인증 우회) Solution 1
 categories: InfoSecurity
 tag: [blog, infosecurity, webgoat]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 

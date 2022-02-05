@@ -4,6 +4,9 @@ title: WebGoat-Introduction
 categories: InfoSecurity
 tag: [blog, infosecurity, webgoat]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 

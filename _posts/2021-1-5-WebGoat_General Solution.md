@@ -4,6 +4,9 @@ title: WebGoat-General Solution
 categories: InfoSecurity
 tag: [blog, infosecurity, webgoat]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 

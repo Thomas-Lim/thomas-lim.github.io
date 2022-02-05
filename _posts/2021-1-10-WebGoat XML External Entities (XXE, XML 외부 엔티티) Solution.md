@@ -4,6 +4,9 @@ title: WebGoat (A4) XML External Entities (XXE, XML 외부 엔티티)  Solution
 categories: InfoSecurity
 tag: [blog, infosecurity, webgoat, xml]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 

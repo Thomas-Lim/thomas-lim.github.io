@@ -4,6 +4,9 @@ title: AWS 침투테스트 - Nessus로 취약점 스캔
 categories: InfoSecurity
 tag: [blog, infosecurity, nessus, vulnerabilities scan]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 

@@ -4,6 +4,9 @@ title: WebGoat Sensitive Data Exposure (민감한 데이터 노출) Solution
 categories: InfoSecurity
 tag: [blog, infosecurity, webgoat]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 

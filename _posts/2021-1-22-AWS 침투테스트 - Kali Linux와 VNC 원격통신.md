@@ -4,6 +4,9 @@ title: AWS 침투테스트 - Kali Linux와 VNC 원격통신
 categories: InfoSecurity
 tag: [blog, infosecurity, kali linux, vnc]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 

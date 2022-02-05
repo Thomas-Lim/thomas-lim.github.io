@@ -4,6 +4,9 @@ title: WebGoat SQL Injection Solution 2
 categories: InfoSecurity
 tag: [blog, infosecurity, webgoat, sql]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 
