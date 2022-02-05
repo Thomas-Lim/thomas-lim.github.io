@@ -38,7 +38,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs: true  # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus"
   disqus:
     shortname            : "thomas-lim-github"
   discourse:
@@ -90,7 +90,7 @@ twitter:
   username               :
 facebook:
   username               : 
-  app_id                 : profile.php?id=100061236607987
+  app_id                 : # profile.php?id=100061236607987
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
