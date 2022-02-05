@@ -1,7 +1,7 @@
 ---
 layout: single
 title: WebGoat와 WebWolf의 Standalone-setup
-categories: infosecurity
+categories: InfoSecurity
 tag: [blog, infosecurity, webgoat]
 toc: true
 ---
