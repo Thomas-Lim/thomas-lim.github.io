@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: single
 title: WebGoat-Introduction
-comments: true
+categories: InfoSecurity
+tag: [blog, infosecurity, webgoat]
+toc: true
 ---
 
 

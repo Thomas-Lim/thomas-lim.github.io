@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: single
 title: WebGoat와 WebWolf의 Standalone-setup
-comments: true
+categories: infosecurity
+tag: [blog, infosecurity, webgoat]
+toc: true
 ---
 
 

@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: single
 title: WebGoat (A5) Broken Access Control Solution 2
-comments: true
+categories: InfoSecurity
+tag: [blog, infosecurity, webgoat]
+toc: true
 ---
 
 

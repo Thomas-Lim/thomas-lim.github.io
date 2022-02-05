@@ -1,8 +1,9 @@
 ---
 title: AWS 침투테스트 - Python Script로 취약한 S3 Bucket 탐색과 응용
 layout: single
-categories: coding
-tag: [python, blog, security]
+categories: Cloud
+tag: [blog, infosecurity, cloud, python, coding]
+toc: true
 ---
 
 

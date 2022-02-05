@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: single
 title: WebGoat Sensitive Data Exposure (민감한 데이터 노출) Solution
-comments: true
+categories: InfoSecurity
+tag: [blog, infosecurity, webgoat]
+toc: true
 ---
 
 

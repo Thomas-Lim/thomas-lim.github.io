@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: single
 title: Image processing_OpenCV + Python 조합으로 아이돌영상 Object tracking !
-comments: true
+categories: Machine Learning
+tag: [blog, machine learning, openCV]
+toc: true
 ---
 
 

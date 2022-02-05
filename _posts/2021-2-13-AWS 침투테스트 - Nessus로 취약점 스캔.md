@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: single
 title: AWS 침투테스트 - Nessus로 취약점 스캔
-comments: true
+categories: InfoSecurity
+tag: [blog, infosecurity, nessus, vulnerabilities scan]
+toc: true
 ---
 
 
