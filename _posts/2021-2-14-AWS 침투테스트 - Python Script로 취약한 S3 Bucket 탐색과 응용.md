@@ -1,6 +1,6 @@
 ---
-layout: post
 title: AWS 침투테스트 - Python Script로 취약한 S3 Bucket 탐색과 응용
+layout: default
 comments: true
 ---
 
