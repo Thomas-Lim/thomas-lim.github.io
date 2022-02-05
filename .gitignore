@@ -1,17 +1,29 @@
-_site
-.DS_Store
-.jekyll
-.jekyll-metadata
+# Vim
+*~
+*.sw[p_]
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ruby Gem
+*.gem
 .bundle
-.sass-cache
-Gemfile
 Gemfile.lock
+**/vendor/bundle
+
+# Node.js and NPM
 node_modules
-package.json
-_posts/2021-1-7-[Image processing] OpenCV + Python = Object tracking.md
-_posts/2020-1-7-Cloud.md
-_posts/2020-1-6-WebGoat-SQL Injection 설명과 풀이 ②.md
-_posts/2020-1-6-WebGoat-SQL Injection 설명과 풀이 ①.md
-_posts/2021-1-7-[Image processing] OpenCV + Python = Object tracking.md
-_posts/2021-1-7-[Image processing] OpenCV + Python = Object tracking.md
-_posts/2021-1-7-Image processing_OpenCV + Python = Object tracking.md
+npm-debug.log*
+package-lock.json
+codekit-config.json
+
+# macOS
+.DS_Store
+
+# Jekyll generated files
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
