@@ -2,6 +2,10 @@
 layout: single
 title: You're up and running!
 comments: false
+author_profile: false
+sidebar:
+    nav: "docs"
+search: false
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).

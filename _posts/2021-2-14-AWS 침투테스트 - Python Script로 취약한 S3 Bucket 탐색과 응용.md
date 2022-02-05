@@ -4,6 +4,9 @@ layout: single
 categories: Cloud
 tag: [blog, infosecurity, cloud, python, coding]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 
