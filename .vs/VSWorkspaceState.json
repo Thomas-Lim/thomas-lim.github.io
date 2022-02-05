@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\docs",
     "\\_data",
     "\\_layouts",
     "\\_pages",
@@ -8,6 +10,6 @@
     "\\_sass",
     "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_pages\\404.md",
   "PreviewInSolutionExplorer": false
 }
